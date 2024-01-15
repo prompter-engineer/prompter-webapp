@@ -1,0 +1,60 @@
+.driver-popover.prompter-theme {
+  padding: 12px 20px;
+  background-color: hsl(var(--color-purple-200));
+  color: hsl(var(--color-purple-900));
+  min-width: 280px;
+}
+
+.driver-popover.prompter-theme .driver-popover-title {
+  font-size: 20px;
+}
+
+.driver-popover.prompter-theme .driver-popover-prev-btn {
+  background-color: hsl(var(--color-white));
+}
+
+.driver-popover.prompter-theme .driver-popover-next-btn {
+  background-color: hsl(var(--color-purple-500));
+  color: hsl(var(--color-white));
+}
+
+.driver-popover.prompter-theme .driver-popover-close-btn {
+  display: block!important;
+  pointer-events: auto;
+}
+
+.driver-popover.prompter-theme button {
+  flex: 1;
+  text-align: center;
+  font-weight: 500;
+  border: none;
+  text-shadow: none;
+  font-size: 16px;
+  padding: 6px 12px;
+  border-radius: 6px;
+}
+
+.driver-popover.prompter-theme .driver-popover-btn-disabled {
+  visibility: hidden;
+}
+
+.driver-popover.prompter-theme .driver-popover-navigation-btns {
+  justify-content: space-between;
+  gap: 6px;
+}
+
+.driver-popover.prompter-theme .driver-popover-arrow-side-left.driver-popover-arrow {
+  border-left-color: hsl(var(--color-purple-200));
+}
+
+.driver-popover.prompter-theme .driver-popover-arrow-side-right.driver-popover-arrow {
+  border-right-color: hsl(var(--color-purple-200));
+}
+
+.driver-popover.prompter-theme .driver-popover-arrow-side-top.driver-popover-arrow {
+  border-top-color: hsl(var(--color-purple-200));
+}
+
+.driver-popover.prompter-theme .driver-popover-arrow-side-bottom.driver-popover-arrow {
+  border-bottom-color: hsl(var(--color-purple-200));
+}

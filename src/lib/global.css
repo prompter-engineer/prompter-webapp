@@ -1,0 +1,108 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+ 
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 222.2 84% 4.9%;
+ 
+    --muted: 210 40% 96.1%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+ 
+    --popover: 0 0% 100%;
+    --popover-foreground: 222.2 84% 4.9%;
+ 
+    --card: 0 0% 100%;
+    --card-foreground: 222.2 84% 4.9%;
+ 
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+ 
+    --primary: 222.2 47.4% 11.2%;
+    --primary-foreground: 210 40% 98%;
+ 
+    --secondary: 210 40% 96.1%;
+    --secondary-foreground: 222.2 47.4% 11.2%;
+ 
+    --accent: 210 40% 96.1%;
+    --accent-foreground: 222.2 47.4% 11.2%;
+ 
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+ 
+    --ring: 215 20.2% 65.1%;
+  }
+ 
+  .dark {
+    color-scheme: dark;
+
+    --color-white: 0 0% 100%;
+    --color-gray-100: 216 7% 86%;
+    --color-gray-200: 216 7% 73%;
+    --color-gray-300: 214 7% 61%;
+    --color-gray-400: 225 6% 27%;
+    --color-gray-500: 223 6% 23%;
+    --color-gray-600: 230 5% 22%;
+    --color-gray-700: 220 7% 18%;
+    --color-gray-800: 225 6% 13%;
+    --color-gray-900: 225 7% 11%;
+    --color-purple-200: 245 90% 92%;
+    --color-purple-500: 253 86% 66%;
+    --color-purple-600: 257 80% 58%;
+    --color-purple-900: 258 65% 35%;
+    --color-red-600: 3 100% 67%;
+    --color-yellow-600: 41 99% 59%;
+    --color-green-600: 129 67% 47%;
+    --color-green-800: 130 88% 36%;
+
+    --background: var(--color-gray-800);
+    --foreground: var(--color-gray-100);
+    
+    --muted: var(--color-gray-400);
+    --muted-foreground: var(--color-gray-300);
+ 
+    --popover: var(--color-gray-900);
+    --popover-foreground: var(--color-gray-100);
+ 
+    --card: var(--color-gray-700);
+    --card-foreground: var(--color-gray-100);
+
+    --border: var(--color-gray-600);
+
+    --select: var(--color-gray-400);
+
+    --input: var(--color-gray-700);
+    --input-foreground: var(--color-gray-100);
+    
+    --primary: var(--color-purple-600);
+    --primary-foreground: var(--color-white);
+ 
+    --secondary: var(--color-gray-400);
+    --secondary-foreground: var(--color-gray-200);
+
+    --accent: var(--color-purple-500);
+    --accent-foreground: var(--color-white);
+
+    --default: var(--color-white);
+    --default-foreground: var(--color-gray-900);
+
+    --destructive: var(--color-red-600);
+    --destructive-foreground: 0 85.7% 97.3%;
+ 
+    --ring: var(--color-gray-700);
+  }
+}
+ 
+@layer base {
+  * {
+    @apply border-border focus-visible:outline-none;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+
+  html, body, #root {
+    @apply h-full;
+  }
+}

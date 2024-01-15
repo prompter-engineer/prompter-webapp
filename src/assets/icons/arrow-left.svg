@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/16px/arrow-left</title>
+    <g id="icon/16px/arrow-left" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="编组" transform="translate(7, 8) scale(-1, 1) translate(-7, -8)translate(1, 1.5)" stroke="#B6BAC0" stroke-width="1.5">
+            <polyline id="路径" points="6.5 0 12 6.5 6.5 13"></polyline>
+            <polyline id="路径备份" points="0 0 5.5 6.5 0 13"></polyline>
+        </g>
+    </g>
+</svg>

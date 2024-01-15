@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/16px/reload</title>
+    <g id="icon/16px/reload" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <path d="M1,8 C1,11.8659932 4.13400675,15 8,15 C11.8659932,15 15,11.8659932 15,8 C15,4.13400675 11.8659932,1 8,1 C6.04307372,1.00736174 4.1647537,1.77095178 2.75777778,3.13111111 L1,4.88888889" id="路径" stroke="#B6BAC0" stroke-width="1.5" stroke-linejoin="round"></path>
+        <polyline id="路径" stroke="#B6BAC0" stroke-width="1.5" points="1 1 1 4.88888889 4.88888889 4.88888889"></polyline>
+    </g>
+</svg>

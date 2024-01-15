@@ -1,0 +1,30 @@
+.upgrade-button {
+  position: relative;
+  border-radius: 4px;
+  background: hsla(36, 100%, 81%, 0.1);
+}
+
+.upgrade-button::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  padding: 1px;
+  border-radius: 4px;
+  background: linear-gradient(279deg, hsla(36, 100%, 81%, 0.2) 100%, hsla(17, 100%, 97%, 0.4));
+  
+  --mask-bg: linear-gradient(red, red);
+  --mask-clip: content-box, padding-box;
+  -webkit-mask-image: var(--mask-bg), var(--mask-bg);
+  -webkit-mask-clip: var(--mask-clip);
+  mask-composite: exclude;
+  -webkit-mask-composite: destination-out;
+}
+
+.upgrade-button__text {
+  background-image: linear-gradient(98deg, hsl(36, 100%, 81%) 14%, hsl(17, 100%, 97%) 75%);
+  -webkit-background-clip: text;
+  color: transparent;
+}

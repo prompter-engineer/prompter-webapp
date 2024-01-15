@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/16px/edit</title>
+    <g id="icon/16px/edit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M1,14 L4.99327107,13.0604077 L13.7248166,4.32887936 C14.0917278,3.96194037 14.0917278,3.36702808 13.7248166,3.00008908 L11.9999115,1.27520425 C11.6330003,0.908265251 11.0380499,0.908265251 10.6711388,1.27520425 L1.93959319,10.0067325 L1,14 Z" id="路径" stroke="#B6BAC0" stroke-width="1.5"></path>
+        <line x1="15" y1="14.5" x2="10" y2="14.5" id="路径" stroke="#B6BAC0" stroke-width="1.5"></line>
+    </g>
+</svg>

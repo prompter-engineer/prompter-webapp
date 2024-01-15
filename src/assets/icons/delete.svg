@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/16px/delete</title>
+    <g id="icon/16px/delete" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <path d="M3,4 L3.80109524,13.3397379 C3.88668571,14.3376 4.71068571,15.1034483 5.69869524,15.1034483 L10.3013333,15.1034483 C11.2893333,15.1034483 12.1133333,14.3376 12.1988571,13.3397379 L13,4" id="路径" stroke="#B6BAC0" stroke-width="1.5" stroke-linejoin="round"></path>
+        <line x1="6.34405428" y1="7" x2="6.65594572" y2="11.9902629" id="路径" stroke="#B6BAC0" stroke-width="1.5" stroke-linejoin="round"></line>
+        <line x1="9.34405428" y1="11.9902629" x2="9.65594572" y2="7" id="路径" stroke="#B6BAC0" stroke-width="1.5" stroke-linejoin="round"></line>
+        <path d="M5.75,3.65517241 L5.75,2.93103448 C5.75,1.8645531 6.6454,1 7.75,1 L8.25,1 C9.3546,1 10.25,1.8645531 10.25,2.93103448 L10.25,3.65517241" id="路径" stroke="#B6BAC0" stroke-width="1.5" stroke-linejoin="round"></path>
+        <line x1="1" y1="3.89655172" x2="15" y2="3.89655172" id="路径" stroke="#B6BAC0" stroke-width="1.5"></line>
+    </g>
+</svg>

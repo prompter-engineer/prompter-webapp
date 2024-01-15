@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon/26px/history</title>
+    <g id="icon/26px/history" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <path d="M24,14.6666667 L24,13 C24,7.4771525 19.4233552,3 13.7777778,3 C8.13220034,3 3.55555556,7.4771525 3.55555556,13 C3.55555556,18.5228475 8.13220034,23 13.7777778,23" id="路径" stroke="#DADCDF" stroke-width="1.5" transform="translate(13.7778, 13) scale(-1, 1) translate(-13.7778, -13)"></path>
+        <polyline id="路径" stroke="#DADCDF" stroke-width="1.5" points="13.7777778 6.56321839 13.7777778 13 17.0676884 16.2183908"></polyline>
+        <line x1="5.25925926" y1="18.8333333" x2="6.44720342" y2="17.6386549" id="路径-6" stroke="#DADCDF" stroke-width="1.5"></line>
+        <line x1="8.24074074" y1="21.75" x2="9.44544118" y2="20.5714887" id="路径-6备份-2" stroke="#DADCDF" stroke-width="1.5"></line>
+        <polyline id="路径-7" stroke="#DADCDF" stroke-width="1.5" points="1 12.1666667 3.55555556 14.6666667 6.11111111 12.1666667"></polyline>
+    </g>
+</svg>
